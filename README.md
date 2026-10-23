@@ -16,6 +16,12 @@ A hotel room booking web application developed with **C#**, **ASP.NET Web Forms*
 - .NET Framework 4.8
 - Visual Studio
 
+## Application screenshots
+
+Screenshots of the **actual running application** will be added here once captured from the project. This repository currently contains the source code but no verified interface screenshots.
+
+Recommended captures: login page, room listing, booking form, and booking dashboard.
+
 ## Project structure
 
 - `WebApplicationRooms.sln` — Visual Studio solution
