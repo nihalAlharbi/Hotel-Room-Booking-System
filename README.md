@@ -94,7 +94,7 @@ Hotel-Room-Booking-System/
 
 **Nihal Hameed Alharbi**  
 Computer Science  
-[GitHub Profile](https://github.com/niha-hameed)
+[GitHub Profile](https://github.com/nihalAlharbi)
 
 ---
 
