@@ -18,9 +18,16 @@ A hotel room booking web application developed with **C#**, **ASP.NET Web Forms*
 
 ## Application screenshots
 
-Screenshots of the **actual running application** will be added here once captured from the project. This repository currently contains the source code but no verified interface screenshots.
+The screenshots below are captured from the actual application running locally. They will appear here after the prepared image files are uploaded to the `screenshots/` folder.
 
-Recommended captures: login page, room listing, booking form, and booking dashboard.
+| Screen | What it demonstrates |
+| --- | --- |
+| **Hotel Booking Dashboard** | Booking totals, active stays, pending approvals, and booking navigation |
+| **Create New Account** | Guest registration form |
+| **Booking Form** | Check-in/check-out dates, room selection, guest count, and optional services |
+| **All Bookings** | Booking status and room-type filters, sorting, and empty state |
+
+**Screenshot filenames:** `screenshots/dashboard.jpg`, `screenshots/registration.jpg`, `screenshots/booking-form.jpg`, `screenshots/bookings-list.jpg`.
 
 ## Project structure
 
